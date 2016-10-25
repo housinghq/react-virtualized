@@ -1,10 +1,7 @@
 {
-  "name": "react-virtualized",
-  "description": "React components for efficiently rendering large, scrollable lists and tabular data",
+  "name": "h-rv",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
-  "user": "bvaughn",
   "version": "8.2.0",
-  "homepage": "https://github.com/bvaughn/react-virtualized",
   "main": "dist/commonjs/index.js",
   "module": "dist/es/index.js",
   "jsnext:main": "dist/es/index.js",
@@ -38,30 +35,6 @@
     "dist",
     "styles.css"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bvaughn/react-virtualized.git"
-  },
-  "keywords": [
-    "react",
-    "reactjs",
-    "react-component",
-    "virtual",
-    "list",
-    "scrolling",
-    "infinite",
-    "virtualized",
-    "table",
-    "fixed",
-    "header",
-    "flex",
-    "flexbox",
-    "grid",
-    "spreadsheet"
-  ],
-  "bugs": {
-    "url": "https://github.com/bvaughn/react-virtualized/issues"
-  },
   "standard": {
     "parser": "babel-eslint",
     "ignore": [
